@@ -1,0 +1,5 @@
+streamlit
+google-cloud-aiplatform
+google-generativeai
+# Assuming google-adk is installed or part of your local environment path
+# If using a specific internal ADK version, ensure it is in your PYTHONPATH
