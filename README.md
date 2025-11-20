@@ -1,4 +1,3 @@
-Here is a comprehensive `README.md` file for your project. It documents the architecture, the agent personas, the workflow, and specifically how the Google Agent Development Kit is utilized.
 
 ***
 
