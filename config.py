@@ -14,7 +14,7 @@ class Config:
     LOCATION = os.getenv("GOOGLE_CLOUD_REGION", "us-central1")
     
     # Using a model capable of complex reasoning
-    MODEL_NAME = "gemini-1.5-pro-002" 
+    MODEL_NAME = "gemini-2.5-flash-lite" 
     
     # --- RETRY POLICY ---
     # Robustness for long generation tasks

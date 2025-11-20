@@ -12,6 +12,7 @@ def save_script_to_file(title: str, content: str) -> str:
     # so the UI can handle the download.
     print(f"   [TOOL] 💾 Saving script: {title}...")
     return f"Success: Script '{title}' content has been finalized and ready for export."
+saves_script_to_plot = save_script_to_file
 
 def generate_storyboard_image_mock(scene_description: str) -> str:
     """
