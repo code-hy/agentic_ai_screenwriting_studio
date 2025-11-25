@@ -8,7 +8,7 @@
 This application simulates a Hollywood creative studio where a team of specialized AI agents collaborate to turn a raw story idea into a greenlit screenplay and visual storyboard. It features a Streamlit UI, SQLite state management, and a "Human-in-the-loop" feedback system.
 
 ---
-
+## 
 ## 🌟 Key Features
 
 *   **Multi-Agent Workflow:** Four distinct agents (Researcher, Writer, Editor, Artist) pass context and deliverables between each other.
